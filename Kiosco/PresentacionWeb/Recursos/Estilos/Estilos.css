@@ -1,0 +1,12 @@
+﻿.responsive img {
+    height: 50px;
+    width: 50px;
+    margin:auto;
+}
+.px-5 py-3 mb-5 img {
+
+}
+center {
+    margin-top: auto;
+    width: 1000px;
+}
