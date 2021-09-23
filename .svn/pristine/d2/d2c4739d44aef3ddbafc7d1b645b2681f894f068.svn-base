@@ -1,7 +1,0 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Menu.master" AutoEventWireup="true" CodeBehind="frmProductosAltaConsulta.aspx.cs" Inherits="PresentacionWeb.frmProductosAltaConsulta" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div>
-        <asp:Button ID="btnAlta" runat="server" Text="Alta" OnClick="btnAlta_Click"/>
-        <asp:Button ID="btnConsulta" runat="server" Text="Consulta" OnClick="btnConsulta_Click" />
-    </div>
-</asp:Content>
